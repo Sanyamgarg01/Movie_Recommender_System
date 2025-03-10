@@ -1,1 +1,3 @@
 venv/
+movie-recommender-system\movie_dict.pkl
+movie-recommender-system\similarity.pkl
